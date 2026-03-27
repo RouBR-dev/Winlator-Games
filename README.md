@@ -32,7 +32,6 @@ I created this project to help mobile users find and download games that are com
 - Simple and lightweight interface  
 - Game list with external links  
 - Compatible with most Android versions  
-- Recommended for Winlator users
 
 ---
 
