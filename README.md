@@ -7,7 +7,7 @@
 ## 🇧🇷 Sobre o Projeto
 
 Olá! Meu nome é **RouBR**, e este é o **meu primeiro aplicativo Android**!  
-Estou desenvolvendo este app com o objetivo de ajudar os usuários mobile a encontrar e baixar jogos que funcionam com o **Winlator** — um emulador que permite rodar jogos e programas de PC no Android.
+Estou desenvolvendo este app com o objetivo de ajudar os usuários mobile a encontrar e baixar jogos que funcionam com os emuladores que permite rodar jogos e programas de PC no Android.
 
 📌 **Importante:** Este aplicativo **não hospeda nenhum conteúdo**. Ele atua apenas como um **redirecionador de links externos**, facilitando o acesso aos downloads.
 
