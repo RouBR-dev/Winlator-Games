@@ -1,48 +1,90 @@
-# 🎮 Winlator Game Downloader
+<div align="center"><img src="https://github.com/user-attachments/assets/290c8b90-7451-4feb-b506-deb278ee9df8" width="180" alt="Winlator Games"><h1 align="center">Winlator Games</h1><p align="center">
+  <strong>Jogos de PC para Android em um só lugar.</strong>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Android-21%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Java-7-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Winlator-Compatible-7C3AED?style=flat-square" alt="Winlator">
+  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square" alt="Status">
+</p></div>
 
-> Um app Android para facilitar o download de jogos compatíveis com o emulador Winlator.
+# Sobre
 
----
+O **Winlator Games** é um aplicativo Android criado para facilitar a descoberta e o acesso a jogos de PC compatíveis com o **Winlator**, permitindo que usuários encontrem rapidamente jogos e links externos para download.
 
-## 🇧🇷 Sobre o Projeto
+O projeto foi desenvolvido com foco em simplicidade, leveza e facilidade de acesso, reunindo informações e links relacionados a jogos que podem ser executados através de emuladores de PC no Android.
 
-Olá! Meu nome é **RouBR**, e este é o **meu primeiro aplicativo Android**!  
-Estou desenvolvendo este app com o objetivo de ajudar os usuários mobile a encontrar e baixar jogos que funcionam com os emuladores que permite rodar jogos e programas de PC no Android.
+> **Importante:** O aplicativo não hospeda os jogos ou qualquer outro conteúdo. Ele funciona como um redirecionador para links externos.
 
-📌 **Importante:** Este aplicativo **não hospeda nenhum conteúdo**. Ele atua apenas como um **redirecionador de links externos**, facilitando o acesso aos downloads.
+# Funcionalidades
 
-### 🧩 Funcionalidades
+* Catálogo de jogos compatíveis com Winlator
+* Links externos para download
+* Pesquisa e organização de jogos
+* Informações sobre os jogos
+* Interface simples e leve
+* Configurações do aplicativo
+* Compatibilidade com diferentes versões do Android
+* Foco em jogos e aplicativos de PC no Android
 
-- Interface simples e leve
-- Lista de jogos com links externos
-- Compatível com a maioria das versões do Android
-- Recomendado para usuários do Winlator
+# Screenshots
 
----
+# Home
 
-## 🇺🇸 About the Project
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f097270e-0d9a-481e-afa2-2dc001dad8d1" width="230" alt="Winlator Games Home">
+</div>
 
-Hello! My name is **RouBR**, and this is **my first Android app**!  
-I created this project to help mobile users find and download games that are compatible with **Winlator** — an emulator that allows you to run PC games and apps on Android.
+# Configurações
 
-📌 **Important:** This app **does not host any content**. It works only as a **redirector to external links**, making the download process easier.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4de34650-b117-44c1-92ee-306bf9719d2e" width="230" alt="Winlator Games Settings">
+</div>
 
-### 🧩 Features
+# Informações do Projeto
 
-- Simple and lightweight interface  
-- Game list with external links  
-- Compatible with most Android versions  
+| Informação          | Detalhes             |
+| ------------------- | -------------------- |
+| **Nome**            | Winlator Games       |
+| **Versão**          | 2.5                  |
+| **Plataforma**      | Android              |
+| **Linguagem**       | Java                 |
+| **Compatibilidade** | Winlator             |
+| **Min SDK**         | Android 5.0 (API 21) |
+| **Arquitetura**     | ARM64 / ARMv7        |
+| **Package**         | `com.winlator.games` |
+| **Status**          | Ativo                |
 
----
+# Tecnologias
 
-## 🤝 Contribuição | Contribution
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Winlator-7C3AED?style=flat-square" alt="Winlator">
+</p>
 
-Se você quiser contribuir com o projeto (melhorias, sugestões ou correções), fique à vontade para abrir um pull request ou uma issue!
+<p align="center">
+  <a href="https://github.com/RouBR-dev/Winlator-Games/releases">
+    <img src="https://img.shields.io/badge/Download-APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/RouBR-dev/Winlator-Games/total?style=for-the-badge&label=Downloads&color=651FFF">
+</p>
 
-## 🙌 Agradecimentos | Thanks
+<p align="center">
+  <a href="https://github.com/RouBR-dev/Winlator-Games">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
-Obrigado por fazer parte do desenvolvimento do meu primeiro app!  
-Thanks for supporting the development of my very first app!
+# Contribuição
 
+Se você quiser contribuir com o projeto, seja com melhorias, sugestões ou correções, fique à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
+
+# Agradecimentos
+
+Obrigado a todos que apoiam o desenvolvimento do **Winlator Games** e ajudam o projeto a continuar evoluindo.
+
+<div align="center"><h2>Winlator Games</h2><strong>Jogos de PC para Android em um só lugar.</strong></div>
