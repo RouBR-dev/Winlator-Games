@@ -34,12 +34,6 @@ O projeto foi desenvolvido com foco em simplicidade, leveza e facilidade de aces
   <img src="https://github.com/user-attachments/assets/f097270e-0d9a-481e-afa2-2dc001dad8d1" width="230" alt="Winlator Games Home">
 </div>
 
-# Configurações
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4de34650-b117-44c1-92ee-306bf9719d2e" width="230" alt="Winlator Games Settings">
-</div>
-
 # Informações do Projeto
 
 | Informação          | Detalhes             |
