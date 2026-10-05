@@ -45,7 +45,7 @@ O projeto foi desenvolvido com foco em simplicidade, leveza e facilidade de aces
 | Informação          | Detalhes             |
 | ------------------- | -------------------- |
 | **Nome**            | Winlator Games       |
-| **Versão**          | 2.5                  |
+| **Versão**          | 3.0                  |
 | **Plataforma**      | Android              |
 | **Linguagem**       | Java                 |
 | **Compatibilidade** | Winlator             |
